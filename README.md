@@ -32,11 +32,17 @@ Ce projet implémente le serveur de configuration centralisé de notre architect
 
 Après le démarrage, vous pouvez vérifier que le serveur lit les configurations de votre dépôt Git en accédant à :
 -   `http://localhost:8888/microservice-commandes/default`
+-   <img width="1237" height="862" alt="image" src="https://github.com/user-attachments/assets/92600798-d679-4918-9258-aaeb0a0cec21" />
+
 -   `http://localhost:8888/microservice-produits/default`
+-   <img width="1020" height="715" alt="image" src="https://github.com/user-attachments/assets/b573b4d2-8bb5-4d36-90c2-971aee330f94" />
+
 -   `http://localhost:8888/spring-cloud-gateway/default`
+-   <img width="1023" height="718" alt="image" src="https://github.com/user-attachments/assets/6307096d-f13d-43b5-8988-5277eb667193" />
+
 
 Vous devriez voir les configurations correspondantes au format JSON.
 
 ---
 
-*Développé par [Amine içame/Salma benOmar] pour le module JEE.*
+*Développé par Amine içame/Salma benOmar pour le module JEE.*
